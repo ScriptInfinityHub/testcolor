@@ -4552,9 +4552,9 @@ local aa = {
 		return {
 			Name = 'Night Typewriter',
 			Accent = Color3.fromRGB(58, 117, 196), -- น้ำเงินเข้ม
-			AcrylicMain = Color3.fromRGB(20, 20, 45), -- ดำลึก
+			AcrylicMain = Color3.fromRGB(200, 20, 25), -- ดำลึก
 			AcrylicBorder = Color3.fromRGB(35, 35, 35), -- ขอบดำเข้ม
-			AcrylicGradient = ColorSequence.new(Color3.fromRGB(20, 20, 35), Color3.fromRGB(20, 20, 40)),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(20, 20, 35), Color3.fromRGB(20, 20, 35)),
 			AcrylicNoise = 0.8,
 			TitleBarLine = Color3.fromRGB(80, 80, 80), -- ขอบเทาเข้ม
 			Tab = Color3.fromRGB(58, 117, 196), -- น้ำเงินเข้ม
